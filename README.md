@@ -3,8 +3,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estefperyeos96@gmail.com)
 
 
-)](mailto:estefperyeos@hotmail.com)
-
 # Who am I?
 Hi, my name is Estefania and I'm currently studying computer science at [Tec de Monterrey_logo](https://github.com/EstefaniaPerezY/logos_bio/blob/main/tec_logo.png) Tec de Monterrey.
 
