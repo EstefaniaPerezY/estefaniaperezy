@@ -12,7 +12,7 @@ Test Engineering Intern building a Control Panel at ![Bosch_logo](https://github
 Research Assitant in the developing of ![Citizen App](https://github.com/EstefaniaPerezY/citizen_science_app) at ![Tec de Monterrey_logo](https://github.com/EstefaniaPerezY/logos_bio/blob/main/tec_logo.png) Tec de Monterrey.
 
 # Fun Facts
-:coffee: Coffee lover.
+:coffee: Coffee lover <br>
 🎾 Tennis enthusiast exploring the beginner level
 
 # Skills
