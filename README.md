@@ -14,3 +14,6 @@ Research Assitant in the developing of ![Citizen App](https://github.com/Estefan
 # Fun Facts
 :coffee: Coffee lover
 🎾 Tennis enthusiast exploring the beginner level
+
+# Skills
+[](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
