@@ -1,6 +1,7 @@
 # Let's connect
 [![Let's Connect](https://shields.io/badge/let's%20connect!-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/estefaniaperezy)
-[![estefperyeos@hotmail.com](https://img.shields.io/badge/Email-estefperyeos@hotmail.com-orange
+[![estefperyeos@hotmail.com](https://img.shields.io/badge/Email-estefperyeos@hotmail.com-red?style=flat-square)(mailto:estefperyeos@hotmail.com)]
+
 )](mailto:estefperyeos@hotmail.com)
 
 # Who am I?
