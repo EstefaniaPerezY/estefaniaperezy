@@ -1,6 +1,7 @@
 # Let's connect
 [![Let's Connect](https://shields.io/badge/let's%20connect!-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/estefaniaperezy)
-[![estefperyeos96@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:estefperyeos96@gmail.com)]
+[![Gmail](https://img.shields.io/badge/Gmail-estefperyeos96@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estefperyeos96@gmail.com)
+
 
 )](mailto:estefperyeos@hotmail.com)
 
