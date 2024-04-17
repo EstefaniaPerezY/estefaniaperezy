@@ -12,8 +12,11 @@ Test Engineering Intern building a Control Panel at ![Bosch_logo](https://github
 Research Assitant in the developing of ![Citizen App](https://github.com/EstefaniaPerezY/citizen_science_app) at ![Tec de Monterrey_logo](https://github.com/EstefaniaPerezY/logos_bio/blob/main/tec_logo.png) Tec de Monterrey.
 
 # Fun Facts
-:coffee: Coffee lover
+:coffee: Coffee lover '\n'
 🎾 Tennis enthusiast exploring the beginner level
 
 # Skills
-[![C++](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
