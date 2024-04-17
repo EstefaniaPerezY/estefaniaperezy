@@ -1,5 +1,5 @@
 # Let's connect
-[![Let's Connect](https://shields.io/badge/let's%20connect!-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/estefaniaperezy)
+[![LinkedIn](https://shields.io/badge/let's%20connect!-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/estefaniaperezy)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estefperyeos96@gmail.com)
 
 
@@ -12,7 +12,7 @@ Test Engineering Intern building a Control Panel at ![Bosch_logo](https://github
 Research Assitant in the developing of ![Citizen App](https://github.com/EstefaniaPerezY/citizen_science_app) at ![Tec de Monterrey_logo](https://github.com/EstefaniaPerezY/logos_bio/blob/main/tec_logo.png) Tec de Monterrey.
 
 # Fun Facts
-:coffee: Coffee lover '\n'
+:coffee: Coffee lover.\n
 🎾 Tennis enthusiast exploring the beginner level
 
 # Skills
