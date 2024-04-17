@@ -4,12 +4,12 @@
 
 
 # Who am I?
-Hi, my name is Estefania and I'm currently studying computer science at ![Tec de Monterrey_logo](https://github.com/EstefaniaPerezY/logos_bio/blob/main/tec_logo.png) Tec de Monterrey.
+Hi, my name is Estefania and I'm currently studying computer science at ![Tec de Monterrey_logo](https://github.com/EstefaniaPerezY/logos_bio/blob/main/1.png) Tec de Monterrey.
 
 # Experience
-Recently completed a specialization in AI by developing a Convolutional Neural Network (CNN) ![CNN](https://github.com/EstefaniaPerezY/TC3007C_AI_datos_II/blob/main/Reto/Reto2_Entrega_Final.ipynb) with the assitence of Exo ![Exo_logo](https://github.com/EstefaniaPerezY/logos_bio/blob/main/exo.png) at ![Tec de Monterrey_logo](https://github.com/EstefaniaPerezY/logos_bio/blob/main/tec_logo.png) Tec de Monterrey.<br>
-Test Engineering Intern building a Control Panel at ![Bosch_logo](https://github.com/EstefaniaPerezY/logos_bio/blob/main/bosch.png) Bosch. <br>
-Research Assitant in the developing of ![Citizen App](https://github.com/EstefaniaPerezY/citizen_science_app) at ![Tec de Monterrey_logo](https://github.com/EstefaniaPerezY/logos_bio/blob/main/tec_logo.png) Tec de Monterrey.<br>
+Recently completed a specialization in AI by developing a Convolutional Neural Network (CNN) ![CNN](https://github.com/EstefaniaPerezY/TC3007C_AI_datos_II/blob/main/Reto/Reto2_Entrega_Final.ipynb) with the assitence of Exo ![Exo_logo](https://github.com/EstefaniaPerezY/logos_bio/blob/main/2.png) at ![Tec de Monterrey_logo](https://github.com/EstefaniaPerezY/logos_bio/blob/main/1.png) Tec de Monterrey.<br>
+Test Engineering Intern building a Control Panel at ![Bosch_logo](https://github.com/EstefaniaPerezY/logos_bio/blob/main/3.png) Bosch. <br>
+Research Assitant in the developing of ![Citizen App](https://github.com/EstefaniaPerezY/citizen_science_app) at ![Tec de Monterrey_logo](https://github.com/EstefaniaPerezY/logos_bio/blob/main/1.png) Tec de Monterrey.<br>
 
 # Fun Facts
 :coffee: Coffee lover <br>
